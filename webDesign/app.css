@@ -1,0 +1,107 @@
+h4, h2{
+    font-family: 'Ubuntu', sans-serif !important;
+    padding: 20px 0 20px 0;
+    color: #FFF;
+    text-align: center;
+}
+
+section{
+    padding: 0 !important;
+}
+.heading{
+    padding: 0 !important;
+    padding-top: 80px !important;
+}
+
+
+.text-center-web{
+    padding: 0 25% 0 25%;
+}
+
+.heading-title-app h3 {
+    margin-bottom: 50px;
+    font-weight: 300;
+    font-family: Avenir,Arial,Helvetica,sans-serif;
+    font-size: 52px;
+    line-height: 70px;
+    text-align: center;
+}
+
+.user-experience{
+    font-size: 30px;
+    font-family: Ubuntu,Arial,Helvetica,sans-serif;
+    font-weight: 300;
+}
+
+.h4contact-web2{
+    color: rgb(56, 56, 56);
+    text-align: left;
+    padding-left: 35%;
+}
+
+.heading-description{
+    font-size: 1.3em;
+    text-align: center;
+    padding-top: 20px;
+}
+.heading-description2{
+    font-size: 1.3em;
+    text-align: left;
+    padding-top: 20px;
+    font-family: Ubuntu,Arial,Helvetica,sans-serif;
+    font-weight: 300;
+}
+.feature-content-web{
+    padding-bottom: 20px;
+}
+
+.under-title{
+    width: 100%;
+    text-align: center;
+    padding-left: 350px;
+}
+.under-title2{
+    font-size: 19px;
+    margin-bottom: 80px;
+    line-height: 40px;
+}
+
+.heading-title-app-areas h3{
+    margin-bottom: 50px;
+    font-weight: 300;
+    font-family: Avenir,Arial,Helvetica,sans-serif;
+    font-size: 52px;
+    line-height: 70px;
+}
+.container-area{
+    margin-left: 50rem;
+}
+
+/* 
+App Development area
+ */
+
+.first-row{
+    width: 50%;
+    margin-left: 25%;
+    display: flex;
+}
+
+.card{
+    width: 50rem;
+    border: none;
+    margin-top: 40px;
+}
+
+.heading-title-app-tech h3{
+    margin-bottom: 50px;
+    font-weight: 300;
+    font-family: Avenir,Arial,Helvetica,sans-serif;
+    font-size: 52px;
+    line-height: 70px;
+    margin-left: 15rem;
+}
+
+.h4contact-web{
+    padding-left: 25%;
+}
